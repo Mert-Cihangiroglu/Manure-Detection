@@ -1,5 +1,5 @@
 # Manure-Detection
-Detection of Manure Applications using Sentinel-2 Satellite Data.
+Detection of Manure Applications using Sentinel-2 Satellite Data. Detection algorithm can be used to identify illegal manure applications.
 
 ## Process
 
